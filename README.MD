@@ -1,7 +1,7 @@
 # Unifi Network Server 8.x for Original Cloud Key (UCKv1)
 
 TLDR; I just want to run Unifi 8.4
-download provision_cloudkey.sh and docker-compose.yml on your cloudkey
+
 1. `wget https://raw.githubusercontent.com/ipp0/Unifi-CloudKey/refs/heads/main/docker-compose.yml`
 2. `wget https://raw.githubusercontent.com/ipp0/Unifi-CloudKey/refs/heads/main/provision_cloudkey.sh`
 3. `chmod a+x provision_cloudkey.sh`
