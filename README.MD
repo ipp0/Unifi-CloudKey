@@ -6,9 +6,10 @@ download provision_cloudkey.sh and docker-compose.yml on your cloudkey
 2. `wget https://raw.githubusercontent.com/ipp0/Unifi-CloudKey/refs/heads/main/provision_cloudkey.sh`
 3. `chmod a+x provision_cloudkey.sh`
 4. `./provision_cloudkey.sh`
-5. Wait and see, eventually ip-address:8443 should show the setup screen. 
+5. Wait and see, eventually ip-address:8443 should show the setup screen. You have Unifi Network Application 8.4 on your gen1 Cloud Key!
 6. `reboot`
-The detailed instructions are at the bottom of the page.
+
+The explanation is below and the detailed instructions are at the bottom of the page.
 
 ### WARNING - this only supports the wireless controller (UNS), not any other apps that the Cloud Key might support (like the NVR app).  It's possible it *might* work alongside other apps, but it has not been tested.
 
