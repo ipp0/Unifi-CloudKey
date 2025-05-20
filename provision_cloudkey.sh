@@ -116,7 +116,7 @@ success "Done"
 # success "Done"
 
 info "Pulling Docker image..."
-docker pull agreenbhm/unifi-cloudkey:latest
+docker pull agreenbhm/unifi-cloudkey:8.4.59-26648-1
 success "Done"
 
 info "Starting containers..."
