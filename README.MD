@@ -1,5 +1,11 @@
 # Unifi Network Server 8.x for Original Cloud Key (UCKv1)
-TLDR - the instructions are at the bottom of the page.
+
+TLDR; I just want to run Unifi 8.4
+download provision_cloudkey.sh and docker-compose.yml on your cloudkey
+    * 'chmod a+x provision_cloudkey.sh'
+    * './provision_cloudkey.sh'
+    * 'reboot'
+The detailed instructions are at the bottom of the page.
 
 ### WARNING - this only supports the wireless controller (UNS), not any other apps that the Cloud Key might support (like the NVR app).  It's possible it *might* work alongside other apps, but it has not been tested.
 
